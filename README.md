@@ -1,3 +1,3 @@
 # Rogalik_HW
 
-Developed with Unreal Engine 5
+Стародубцев Андрей Евгеньевич
